@@ -9,5 +9,5 @@ The 6 classes contained in the dataset are:
 - Shingle
 - Ballasted
 
-# Results
+# Result
 Rank -2 | 291 participants
